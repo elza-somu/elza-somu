@@ -9,6 +9,8 @@ Thank you for stopping by!
 -  I’m currently learning React to complete my MERN stack
 -  Pronouns: She/Her
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=elza-s)
+
 
 
 
