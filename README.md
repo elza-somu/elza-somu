@@ -7,7 +7,7 @@ Thank you for stopping by!
 -  My Tech Stack - JavaScript with Nodejs, Express, MongoDb & Mongoose
 -  I’m currently working on Goal Tracking App
 -  I’m currently learning React to complete my MERN stack
-- 👩🏾 Pronouns: She/Her
+-  Pronouns: She/Her
 
 
 
