@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-
 Thank you for stopping by! 
 
 ### A bit about me
@@ -11,6 +10,8 @@ Thank you for stopping by!
 -  Pronouns: She/Her
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=elza-s)
+
+![Visitor Count](https://profile-counter.glitch.me/elza-s/count.svg)
 
 
 
