@@ -1,5 +1,5 @@
 ### Hi there 👋
-![image title](https://rushter.com/counter.svg)
+
 
 Thank you for stopping by! 
 
@@ -14,9 +14,6 @@ Thank you for stopping by!
 
 
 
-
-
-Cache-Control: max-age=0, no-cache, no-store, must-revalidate
 
 
 <!--
