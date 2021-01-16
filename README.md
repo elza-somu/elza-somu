@@ -11,6 +11,7 @@ Thank you for stopping by!
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=elza-s)
 
+Profile Visits :    
 ![Visitor Count](https://profile-counter.glitch.me/elza-s/count.svg)
 
 
