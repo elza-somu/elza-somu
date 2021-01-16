@@ -1,4 +1,5 @@
 ### Hi there 👋
+![image title](https://rushter.com/counter.svg)
 
 Thank you for stopping by! 
 
@@ -15,11 +16,12 @@ Thank you for stopping by!
 
 
 
-
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
 
 
 <!--
 **elza-s/elza-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
