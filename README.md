@@ -4,9 +4,9 @@ Thank you for stopping by!
 
 ### A bit about me
 
--  My Tech Stack - JavaScript with Nodejs, Express, MongoDb & Mongoose
+-  My Tech Stack - MERN, HTML, CSS, JavaScript, Bootstrap . . .
 -  I’m currently working on Goal Tracking App
--  I’m currently learning React to complete my MERN stack
+-  I’m currently learning to re-learn things
 -  Pronouns: She/Her
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=elza-s)
