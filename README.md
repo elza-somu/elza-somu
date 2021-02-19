@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Thank you for stopping by! 
+Thank you for stopping by! View my complete portfolio @ www.elzasomu.com
 
 ### A bit about me
 
