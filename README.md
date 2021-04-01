@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elza-somu&label=Profile%20views&color=0e75b6&style=flat" alt="elza-somu" /> </p>
 
-- 🌱 I’m currently learning **Flutter, Dart**
+- 🌱 I’m currently working on **perfecting my understanding of the backend goodness!!**
 
 - 👨‍💻 All of my projects are available at [http://www.elzasomu.com/](http://www.elzasomu.com/)
 
