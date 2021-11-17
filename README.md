@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Elza Somu</h1>
-<h3 align="center">I am a UX Developer specialising in all the things JavaScript (MERN) to create a great web experience. 
+<h3 align="center">I am a Designer/Developer specialising in all the things JavaScript to create a great web experience. 
   As someone with an extensive design background, creating a good User experience in Software development is very important to me. This has been one of the main reasons to purse this path...i.e. to create web pages and app which connect with the users and lets them have a wholesome experience. I am an "Interior Designer to the web world"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elza-somu&label=Profile%20views&color=0e75b6&style=flat" alt="elza-somu" /> </p>
 
-- 🌱 I’m currently working on **perfecting my understanding of the backend goodness!!**
+- 🌱 I’m currently working on **learning the Shopify Magic**
 
 - 👨‍💻 All of my projects are available at [http://www.elzasomu.com/](http://www.elzasomu.com/)
 
-- 💬 Ask me about **JavaScript, React, Node**
+- 💬 Ask me about **UX Design, JS**
 
 - 📫 How to reach me **elza_somu@yahoo.com**
 
