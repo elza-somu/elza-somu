@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Elza Somu</h1>
+<h1 align="center">Hi 👋, I'm Elza Thekkedathu</h1>
 <h3 align="center">I am a Designer/Developer specialising in all the things JavaScript to create a great web experience. 
   As someone with an extensive design background, creating a good User experience in Software development is very important to me. This has been one of the main reasons to purse this path...i.e. to create web pages and app which connect with the users and lets them have a wholesome experience. I am an "Interior Designer to the web world"</h3>
 
@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **UX Design, JS**
 
-- 📫 How to reach me **elza_somu@yahoo.com**
+- 📫 How to reach me **elzathes@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
