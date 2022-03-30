@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Elza Thekkedathu</h1>
-<h3 align="center">I am a Designer/Developer specialising in all the things JavaScript to create a great web experience. 
-  As someone with an extensive design background, creating a good User experience in Software development is very important to me. This has been one of the main reasons to purse this path...i.e. to create web pages and app which connect with the users and lets them have a wholesome experience. I am an "Interior Designer to the web world"</h3>
+<h1 align="center">Hi 👋, I'm Elza Somu</h1>
+<h3 align="center">I am a Designer who loves to create a great web experience. 
+  As someone with an extensive design background, creating a good User experience in Software development is very important to me. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elza-somu&label=Profile%20views&color=0e75b6&style=flat" alt="elza-somu" /> </p>
 
@@ -8,9 +8,8 @@
 
 - 👨‍💻 All of my projects are available at [http://www.elzasomu.com/](http://www.elzasomu.com/)
 
-- 💬 Ask me about **UX Design, JS**
+- 💬 Ask me about **UX Design**
 
-- 📫 How to reach me **elzathes@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
